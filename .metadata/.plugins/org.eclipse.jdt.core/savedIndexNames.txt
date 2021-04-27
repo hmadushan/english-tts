@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+C:\Users\Harsha\OneDrive\Desktop\SLIIT\RESEARCH\mary tts\my mary tts\.metadata\.plugins\org.eclipse.jdt.core
+663890140.index
+3786263249.index
+961507165.index
+1259442148.index
+3885986164.index
+1266491106.index
+2457850634.index
